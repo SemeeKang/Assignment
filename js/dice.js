@@ -1,0 +1,11 @@
+/*
+	Author: Semee Kang
+	Student Number: 000778980
+	
+	I, Semee Kang, student number 000778980, certify that all code submitted is my own work; 
+	that I have not copied it from any other source.  
+	I also certify that I have not allowed my work to be copied by others.
+*/
+window.addEventListener("load", function() {
+
+});
